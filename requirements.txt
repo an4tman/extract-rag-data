@@ -1,0 +1,7 @@
+docx
+PyPDF2
+os
+sys
+logging
+beautifulsoup4
+nltk
